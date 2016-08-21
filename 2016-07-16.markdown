@@ -1,0 +1,6 @@
+#### 持续集成
+
+##### 视频
+
+1. 最佳实践视频课程Docker + Bamboo + Saltstack 
+http://edu.51cto.com/index.php?do=lession&id=89629
