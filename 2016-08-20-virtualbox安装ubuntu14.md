@@ -199,13 +199,13 @@ liango@liango-VirtualBox:~$
 
 
 
-  ![sp160822_001406](D:\pictures\2016-08-22\sp160822_001406.png)
+  ![sp160822_001406](D:\markdown\pictures\2016-08-22\sp160822_001406.png)
 
 
 
 
 
-![sp160822_000620](D:\pictures\2016-08-22\sp160822_000620.png)
+![sp160822_000620](D:\markdown\pictures\2016-08-22\sp160822_000620.png)
 
 
 
