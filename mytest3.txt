@@ -1,0 +1,11 @@
+d clipboard> nircmd /?
+
+liango@LENOVO-PC D:\markdown
+>
+liango@LENOVO-PC D:\markdown
+> liango@LENOVO-PC D:\markdown
+'liango@LENOVO-PC' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+liango@LENOVO-PC D:\markdown
+> > where nir
